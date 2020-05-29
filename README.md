@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+Under this tab, you can get various reports regarding the number of points allocated(monetary), appreciation counts, and the CSV rewards upload. 
 
-You can use the [editor on GitHub](https://github.com/vcadmin0001/Reports/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For all the reports you need to select a period of dates for which you want the report. You can head to the column visibility under any report and select the columns which you want to include. Similarly, under every report, you have the option to copy the data to your clipboard, download the file as an excel sheet or CSV file and print the particular report directly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Rewards-Monetary 
 
-### Markdown
+This section shows you the complete details of all the points budget. This section is divided according to the countries. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Monetary_report](https://user-images.githubusercontent.com/48199047/83106377-fe1ecc00-a0d9-11ea-9006-4a2102e6a77b.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+You get an overview of the budget purchased by your organization, the budget allocated by the Admins, the points allocated to employees, and the points redemption by the end-users i.e the employees.
 
-- Bulleted
-- List
+On clicking the expand button “+”, you are displayed the budget allocated by Admins to Managers and the budget utilization by Managers according to departments. 
 
-1. Numbered
-2. List
+Click on the “view” button for additional details on the section
 
-**Bold** and _Italic_ and `Code` text
+## Appreciation Report
 
-[Link](url) and ![Image](src)
-```
+This section helps you keep track of the total number of appreciation(non-monetary award) done in a selected time frame. All the sections are categorized according to departments and the departments can be further divided into various managers within the department. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Appreciate_nonmonetary_report](https://user-images.githubusercontent.com/48199047/83219996-6e3b5980-a18f-11ea-8439-06b633612c87.png)
 
-### Jekyll Themes
+Click on the “View Report” of any department, manager or the company itself. 
+<ul>
+  <li>Select the time frame for which you want the reports for.</li>
+<li>Click on the view report button and a detailed table with all the information will be displayed on the dashboard. </li>
+</ul>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vcadmin0001/Reports/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## CSV Rewards Upload
 
-### Support or Contact
+This section shows you the bulk upload of points to various recipients. The report contains the Upload date, the user who uploaded, the country, the batch Id, the total number of recipients, the total number of points uploaded, and the approver. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+There is also a search bar for you to search any user name, country, points, etc. 
+
